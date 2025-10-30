@@ -1,0 +1,2 @@
+- [x] Fix imports in sensores/views.py: change 'Sensores' to 'sensores'
+- [x] Unindent DadosSensorListView to make it a top-level class
